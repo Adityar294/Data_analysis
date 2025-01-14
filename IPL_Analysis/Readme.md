@@ -29,9 +29,9 @@ This project is a visually appealing and interactive dashboard that provides ins
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ipl-dashboard.git
+   git clone https://github.com/your-username/IPL_Analysis.git
    ```
-2. Open the Power BI file (`IPL_Dashboard.pbix`) using Power BI Desktop.
+2. Open the Power BI file (`ipl_2024.pbix`) using Power BI Desktop.
 3. Explore the interactive dashboard by selecting:
    - Specific seasons from the dropdown.
    - Players from the batting and bowling stats dropdowns.
@@ -51,6 +51,7 @@ This project is a visually appealing and interactive dashboard that provides ins
 ## Acknowledgments
 
 - IPL official datasets and publicly available sources for data.
+- Dataset : https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 - Tutorials and resources on Power BI for dashboard development.
 
 Feel free to fork, contribute, or provide feedback to improve this project!
